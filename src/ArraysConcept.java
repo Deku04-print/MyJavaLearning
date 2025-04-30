@@ -13,6 +13,7 @@ public class ArraysConcept {
         for(int i=0;i<n;i++){
             //It will print the Arrays elements one by one
             System.out.println(arr[i]);
+            //the values are printed
         }
 
     }
