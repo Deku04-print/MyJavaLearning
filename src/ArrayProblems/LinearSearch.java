@@ -1,4 +1,4 @@
-//This code find out the index of the Key value which you entered
+package ArrayProblems;//This code find out the index of the Key value which you entered
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+package LoopLearningProblems;
+
 public class LoopFor {
     public static void main(String[] Args){
         for(int i=3;i<=30;i+=3){

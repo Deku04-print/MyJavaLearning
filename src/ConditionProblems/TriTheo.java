@@ -1,3 +1,4 @@
+package ConditionProblems;
 
 import java.util.Scanner;
 

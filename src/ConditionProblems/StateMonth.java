@@ -1,3 +1,5 @@
+package ConditionProblems;
+
 import java.util.Scanner;
 
 public class StateMonth {

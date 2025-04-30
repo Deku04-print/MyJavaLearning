@@ -1,3 +1,5 @@
+package BasicProblems;
+
 import java.util.Scanner;
 
 public class StringIn {

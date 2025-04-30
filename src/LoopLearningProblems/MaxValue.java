@@ -1,3 +1,5 @@
+package LoopLearningProblems;
+
 import java.util.Scanner;
 
 public class MaxValue {

@@ -1,4 +1,4 @@
-// A Java program to demonstrate working
+package BasicProblems;// A Java program to demonstrate working
 // of a Class type object created by JVM
 // to represent .class file in memory.
 import java.lang.reflect.Field;

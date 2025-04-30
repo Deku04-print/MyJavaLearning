@@ -1,3 +1,4 @@
+package ArrayProblems;
 
 //Calculate the Sum of All Elements in an Array
 public class SumOfEle {
