@@ -14,8 +14,6 @@ public class SmallestNum {
             if(maxValue>current) {
                 maxValue=current;
             }
-
-
         }
         System.out.println("The Biggest Number is :" + maxValue);
     }

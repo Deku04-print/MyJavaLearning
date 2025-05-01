@@ -31,7 +31,7 @@ public class LinearSearch {
             }
 
         }
-        System.out.println("Value is at Index :"+i);
+        System.out.println("Value is at Index :"+ans);
 
     }
 }
