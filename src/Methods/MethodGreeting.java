@@ -8,9 +8,16 @@ public class MethodGreeting {
 
         System.out.println("ENTER A GREETING :");
         String str = sc.nextLine();
+        System.out.println("Enter a Repeatable value :");
+        int n=sc.nextInt();
+         for (int i = 0; i < n; i++) {
 
-        System.out.println(str);
+            System.out.println(str);
 
+
+         }
+        //Here I am adding a change in this code
+         //I added this For loop to print the greetings for N number of times
     }
     public static void main(String[] args){
         //calling a static method without creating a onject of the Greetings Class
