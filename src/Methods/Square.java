@@ -17,6 +17,7 @@ public class Square {
 
         for(String heros:arr){
             System.out.println(heros);
+            System.out.println("Hello Heros....");
         }
 
     }
