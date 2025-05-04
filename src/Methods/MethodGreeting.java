@@ -20,7 +20,7 @@ public class MethodGreeting {
          //I added this For loop to print the greetings for N number of times
     }
     public static void main(String[] args){
-        //calling a static method without creating a onject of the Greetings Class
+        //calling a static method without creating a object of the Greetings Class
 
         Greetings();
     }
