@@ -6,7 +6,7 @@ public class MaxValue {
 
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
-        System.out.println("Please enter the count of the numbers :");
+    System.out.println("Please enter the count of the numbers :");
     int n=sc.nextInt();
     int maxValue=Integer.MIN_VALUE;
 
