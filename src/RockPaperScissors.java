@@ -26,7 +26,7 @@ public class RockPaperScissors {
             }
 
             ComputerChoice=Choice[random.nextInt(3)];
-            System.out.println("Computer CHoice :"+ComputerChoice.toUpperCase());
+            System.out.println("Computer Choice :"+ComputerChoice.toUpperCase());
 
             if (ComputerChoice.equals(PlayerChoice)){
                 System.out.println("It's A TIE ");
