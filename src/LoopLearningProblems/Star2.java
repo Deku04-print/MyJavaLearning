@@ -3,7 +3,7 @@ package LoopLearningProblems;
 import java.util.Scanner;
 
 public class Star2 {
-    //Reverse Star Pattern
+    //Reverse Star Pattern s
     public static void main(String[] args){
         System.out.println("Welcome to Star pattern Printer...");
         Scanner sc = new Scanner(System.in);
