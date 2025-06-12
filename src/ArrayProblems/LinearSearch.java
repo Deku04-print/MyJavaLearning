@@ -23,8 +23,8 @@ public class LinearSearch {
         int key=sc.nextInt();
 
         int ans =-1;
-        int i;
-        for (i = 0; i < arr.length; i++) {
+
+        for (int i = 0; i < arr.length; i++) {
             if(arr[i]==key){
                 ans=i;
                 break;
