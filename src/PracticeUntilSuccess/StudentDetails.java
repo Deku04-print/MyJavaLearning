@@ -20,6 +20,8 @@ public class StudentDetails {
     System.out.println("Enter the Grade Of the Student :");
     float Sgrade=sc.nextFloat();
 
+
+
     Student student1=new Student(Sname,Sage,Sroll,Sgrade);
 
 
