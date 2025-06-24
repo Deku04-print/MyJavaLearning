@@ -1,5 +1,7 @@
 package Methods;
 
+import StringOperations.ReplaceChar;
+
 import java.awt.*;
 
 public class ShapesMain {
@@ -15,7 +17,25 @@ public class ShapesMain {
     public static void main(String[] args){
 
         //Shapes shape=new Shapes();//'Shapes' is abstract; cannot be instantiated
+        Rectangle rec1=new Rectangle(12.4,49.3);
+        Rectangle rec2=new Rectangle(12.4,49.3);
+        Triangle tri1=new Triangle(12.4,49.3);
+        Triangle tri2=new Triangle(12.4,49.3);
+        Circle cir1=new Circle(4);
+        Circle cir2=new Circle(4);
 
+        rec1.display();
+        System.out.println(rec1.area());
+//        tri1.display();
+//        tri1.area();
+//        cir1.display();
+//        cir1.area();
+//        rec2.display();
+//        rec2.area();
+//        tri2.display();
+//        tri2.area();
+//        cir2.display();
+//        cir2.area();
     }
 }
 
