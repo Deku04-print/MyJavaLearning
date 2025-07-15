@@ -11,6 +11,7 @@ public class RevString {
         String s1=sc.nextLine();
         String arr="";
         int n=s1.length()-1;
+        System.out.println(n);
         for (int i = n; i>=0 ; i--) {
 
             arr+=s1.charAt(i);
