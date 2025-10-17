@@ -23,15 +23,21 @@ public class LinearSearch {
         int key=sc.nextInt();
 
         int ans =-1;
+        boolean isFind=false;
 
         for (int i = 0; i < arr.length; i++) {
             if(arr[i]==key){
                 ans=i;
+                isFind=true;
                 break;
             }
-
         }
+        if (isFind){
         System.out.println("Value is at Index :"+ans);
+
+        }else{
+            System.out.println("The Value is not there in the array");
+        }
 
     }
 }
