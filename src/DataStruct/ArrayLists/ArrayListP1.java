@@ -41,5 +41,7 @@ public class ArrayListP1 {
         }
         ave=sum/students.size();
         System.out.println("The average is :"+ave);
+
     }
+
 }
