@@ -10,16 +10,16 @@ import java.util.Scanner;
           This is ignored
           by Compiler */
 
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
-        int x=sc.nextInt();
-        System.out.println("This is the Integer"+x);
-        String str=sc.next();
-        System.out.println("This is the String"+str);
-        sc.nextLine();
-        String str2=sc.nextLine();
-        System.out.println("This is the String"+str2);
+        System.out.println("enter the Number :");
+        int n = sc.nextInt();
 
+        for (int i=0;i<=10;i++){
+
+            System.out.print(n+" * "+i+"="+(n*i));
+            System.out.println();
+        }
 
     }
         }

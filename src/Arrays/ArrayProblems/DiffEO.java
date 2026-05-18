@@ -1,6 +1,4 @@
-package ArrayProblems;
-
-import org.w3c.dom.ls.LSOutput;
+package Arrays.ArrayProblems;
 
 import java.util.Arrays;
 import java.util.Scanner;

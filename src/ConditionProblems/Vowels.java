@@ -8,7 +8,7 @@ public class Vowels {
         System.out.println("Enter a number :");
         int i=sc.nextInt();
 
-        String ans=i==2?"Even":"Odd";
+        String ans=(i%2==0)?"Even":"Odd";
         System.out.println(ans);
     }
 }

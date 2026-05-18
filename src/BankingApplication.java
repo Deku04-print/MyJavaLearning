@@ -1,16 +1,16 @@
 //import javax.sound.midi.Soundbank;
-//import java.util.Scanner;
-//
-//public class BankingApplication {
-//    static Scanner sc = new Scanner(System.in);
-//    static double balance=0;
-//    public static void main(String[] args){
-//
-//
-//         //variable declaration
-//
-//        int choice;
-//        boolean isrunning=true;
+////import java.util.Scanner;
+////
+////public class BankingApplication {
+////    static Scanner sc = new Scanner(System.in);
+////    static double balance=0;
+////    public static void main(String[] args){
+////
+////
+////         //variable declaration
+////
+////        int choice;
+////        boolean isrunning=true;
 //
 //
 //        //welcome msg
@@ -89,10 +89,11 @@
 //        return 0;
 //    }
 //
-//
-//
-//
+
+
+
 //} below is the corrected
+
 import java.util.Scanner;
 
 public class BankingApplication {
